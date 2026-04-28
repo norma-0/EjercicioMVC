@@ -1,4 +1,6 @@
+// Configuracion agregada en DEV2
 var builder = WebApplication.CreateBuilder(args);
+
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
